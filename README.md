@@ -63,7 +63,7 @@ menu✅
 💡 Need help? Reach out to the developer directly:
 
 <p align="center">
-  <a href="http://wa.me/254743982206" target="_blank">
+  <a href="http://wa.me/255794469700" target="_blank">
     <img alt="Contact Developer" src="https://img.shields.io/badge/CONTACT DEV-📲 MESSAGE NOW 📲-green?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/>
   </a>
 </p>
