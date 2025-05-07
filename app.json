@@ -25,17 +25,17 @@
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "254743982206"
+      "value": "255794469700"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "AUTO_TYPING": {
       "description": "Enable bot to show typing status (true/false)",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "AUTO_RECORDING": {
       "description": "Enable bot to show recording status (true/false)",
@@ -49,23 +49,23 @@
     },
     "AUTO_REACT": {
       "description": "Enable bot to auto-react to messages (true/false)",
-      "required": false,
-      "value": "false"
-    },
-    "ANTI_DELETE": {
-      "description": "Enable anti-delete feature (true/false)",
       "required": true,
       "value": "true"
     },
+    "ANTI_DELETE": {
+      "description": "Enable anti-delete feature (true/false)",
+      "required": false,
+      "value": "false"
+    },
     "AUTO_STATUS_SEEN": {
       "description": "Enable bot to view statuses (true/false)",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTO_STATUS_REPLY": {
       "description": "Enable bot to reply after viewing a status (true/false)",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "STATUS_READ_MSG": {
       "description": "Set the message bot sends after viewing a status",
