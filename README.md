@@ -51,7 +51,7 @@ Buy your customized WhatsApp bot at an affordable price. Packed with premium fea
 
 ### ☁️ Heroku
 <p align="center">
-  <a href="https://bera-tech-server.vercel.app" target="_blank">
+  <a href="https://tile-beta.vercel.app/" target="_blank">
     <img alt="Deploy on Heroku" src="https://img.shields.io/badge/HEROKU-ONE CLICK DEPLOY-7952B3?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black"/>
   </a>
 </p>
